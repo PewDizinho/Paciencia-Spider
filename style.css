@@ -27,7 +27,7 @@ nav {
 
 
 img.card {
-    width: 130px;
+    width: 5dvw;
 }
 
 img.card:not(.inv) {
@@ -37,7 +37,7 @@ img.card:not(.inv) {
 
 div#cardOnTheTable>img {
     position: absolute;
-    width: 130px;
+    width: 5dvw;
     margin: 60px;
 }
 
